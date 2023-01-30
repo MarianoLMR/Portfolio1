@@ -19,7 +19,7 @@
     margin: 10px;
 }
 
-.skill-list {
+.skills-list {
     list-style: none;
     padding: 0;
     display: flex;
@@ -27,7 +27,7 @@
     justify-content: center;
 }
 
-@media(min-width 950px) {
+@media(min-width: 950px) {
     
     .skills-title {
         font-size: 50px;

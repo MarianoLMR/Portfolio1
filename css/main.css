@@ -6,6 +6,18 @@
     --text-color: #000000;
     --navbar-shallow-color: #f8f8f8;
     --menu-mobile-background-color: #36454f;
+
+    
+}
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+section[id] {
+    scroll-margin-top: 70px;
 }
 
 body {

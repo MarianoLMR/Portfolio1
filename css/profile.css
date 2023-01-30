@@ -14,7 +14,7 @@
 }
 
 .profile-img-line {
-    background-color: var(--secundary-color);
+    background-color: var(--primary-color);
     height: 15px;
     position: absolute;
     width: 100%;
@@ -31,7 +31,7 @@
     font-weight: bold;
     margin: 0;
     color: var(--primary-color)
-    font-family: "Noto Sans, sans-serif;"
+    font-family: "noto-sans" 
 }
 
 .profile-details {

@@ -91,7 +91,7 @@
 
 }
 
-@media (max-width: 950px) {
+@media(max-width: 950px) {
     .nav_menu {
         flex-direction: column;
         position: fixed;
